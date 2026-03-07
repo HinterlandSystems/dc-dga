@@ -1,7 +1,7 @@
 # DGA Orchestration Frontend
 
 This repository provides the frontend implementation for **Data Intermediary** and **Data Altruism Organisation DAO** services developed under the **EU Data Governance Act (DGA)** framework.  
-It delivers user-facing components that enable individuals and organizations to manage data sharing, consent, and altruistic data contributions in a **transparent, trusted, and human-centric** manner.
+It delivers user-facing components that enable individuals and organizations to manage and formalise data sharing workflows, consent, and altruistic data contributions in a **transparent, trustworthy, and human-centric** manner.
 
 ---
 
@@ -15,7 +15,7 @@ The frontend serves as the **interaction layer** for DGA-compliant data network 
 - Access dashboards for **data access requests, audit trails, and credentials**  
 - Interact with **wallets** and **verifiable credentials** through secure OID4VCI / OID4VP flows  
 
-It is designed to be modular, adaptable, and compatible with multiple backend environments (e.g., Data Intermediary Platform, DAO Archive).
+It is designed to be modular, adaptable, and compatible with multiple backend environments (e.g., Data Intermediary Platform, Hinterland Systems).
 
 ## About  
 
